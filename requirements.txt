@@ -3,3 +3,6 @@ pandas
 opencv-contrib-python
 matplotlib
 seaborn
+
+#command to install the libraries 
+# pip install -r requirements.txt
